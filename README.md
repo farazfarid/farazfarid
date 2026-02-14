@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer and AI engineer</h3>
 
 <p align="center">
-  <img src="https://www.farazfarid.com/_next/static/media/profilePic.c5d8a7b9.webp" alt="Faraz" width="150" height="150" object-fit="cover">
+  <img src="https://www.farazfarid.com/_next/static/media/profilePic.c5d8a7b9.webp" alt="Faraz">
 </p>
 
 <p align="center">
