@@ -1,116 +1,100 @@
-<h1 align="center">Salaam (Peace be upon you) 👋 I'm Faraz</h1>
-<h3 align="center">A passionate frontend developer and AI engineer</h3>
+<h1 align="center">Fabian Faraz Farid</h1>
+<h3 align="center">Senior Software Engineer | AI Specialist | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://www.farazfarid.com/_next/static/media/profilePic.c5d8a7b9.webp" alt="Faraz">
+  <img src="https://www.farazfarid.com/_next/static/media/profilePic.c5d8a7b9.webp" alt="Faraz" width="200" style="border-radius: 10px;"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/fabianfarid"><img src="https://img.shields.io/badge/LinkedIn-FabianFarid-blue"></a>
-  <a href="https://github.com/farazfarid"><img src="https://img.shields.io/badge/GitHub-FarazFarid-lightgrey"></a>
-  <a href="https://farazfarid.me"><img src="https://img.shields.io/badge/Website-FarazFarid.me-brightgreen"></a>
+  <a href="https://linkedin.com/in/fabianfarid"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/farazfarid"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://farazfarid.me"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="mailto:fabianfarid@live.de"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-## About Me
+## Hey there! 👋
 
-- 🔭 I’m currently working on **a server-wide AI system 🧠**
-- 🌱 I’m currently learning **anything related to AI 🤖**
-- 👯 I’m looking to collaborate on **web and game frameworks 🎮**
-- 💬 Ask me about **react, next.js, react native**
-- 📫 How to reach me: **wrasse-decibel.04@icloud.com**
-- ⚡ Fun fact: **I am a basketball player 🏀**
+I'm Faraz, a software engineer who's been building things on the web for over a decade. These days, I'm working at **SOPTIM AG** where I develop software for the energy sector—think grid operations and market communication systems that help keep the lights on.
 
-## My Projects
+I recently finished my Master's in AI at Heinrich Heine University, where I researched how explainable AI behaves when you try to mess with it (spoiler: it gets interesting). Before that, I wore a lot of hats—CTO roles, full-stack development, even ran my own game studio for a few years.
 
-### [ChatGPT+](https://chatgpt.farazfarid.me/)
-- **Description**: Level up your chats! 🧠 ChatGPT Messenger 2.0: AI-powered conversations, real-time magic, and a UI as smooth as silk. Next-gen chat awaits!
-- **Technologies**: React, TailwindCSS, OpenAI, Firebase
+**What I'm up to:**
+- Building enterprise software for energy infrastructure at SOPTIM
+- Exploring the world of agentic AI and large language models
+- Always learning something new in the AI space
+- Playing basketball when I'm not behind a keyboard
 
-### [DALL·E 3 Image Generator](https://image-generator.farazfarid.me/)
-- **Description**: Unleash surreal AI art - DALL·E 3 x Next.js 13. Code meets canvas, paint with prompts! Secure, immersive, your visions, AI-born. Let's create! ✨
-- **Technologies**: React, TailwindCSS, OpenAI, Microsoft Azure
+**Things I actually enjoy working with:**
+React and the whole modern frontend ecosystem, Spring Boot for backend stuff, cloud platforms (AWS, Azure, GCP), and lately I've been deep into AI/ML work with various LLMs and frameworks.
 
-### [PokéDex+](https://pokedex.farazfarid.me/)
-- **Description**: Unleash your inner trainer! Search all Pokémon, tap for stats, filter like a pro. Build your dream team with this sleek Pokédex app. Catch 'em all! ⚡️
-- **Technologies**: React, TailwindCSS
+**Languages I speak:**
+German and Dari natively, professional English, and I can get by pretty well in Spanish and Arabic. Currently butchering French as a beginner.
 
-## Achievements
+---
 
-- **Gemini API Developer Competition**
-- **Winner of Jugend Forscht in Computer Science**
-- **Qoranthon**
+## 🛠️ What I Work With
 
-## Languages and Tools
+**Languages:** Python, Java, TypeScript, JavaScript, C#, C++
 
-<p align="left">
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-<a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="chartjs" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
-<a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" alt="unity" width="40" height="40"/> </a>
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Unreal_Engine_Logo.svg/2560px-Unreal_Engine_Logo.svg.png" alt="unreal" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
-<a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
-</p>
+**Frontend:** React, Next.js, Vue.js, Angular, TailwindCSS, Three.js
 
-## GitHub Stats
+**Backend:** Spring Boot, Node.js, .NET, Django
+
+**Cloud & Infrastructure:** AWS, Azure, GCP, Docker, Kubernetes
+
+**AI/ML:** TensorFlow, PyTorch, OpenAI APIs, scikit-learn
+
+**Databases:** MongoDB, PostgreSQL, MySQL, Firebase
+
+**Other stuff:** Unity, Unreal Engine, Blender (from my game dev days)
+
+---
+
+## 🎯 Experience Highlights
+
+**SOPTIM AG** - Software Engineer *(Sept 2024 - Present)*
+Working on cloud-based solutions for energy market stakeholders. Making sure critical infrastructure stays stable and efficient.
+
+**Multiple CTO Roles** *(2021 - 2024)*
+Led technical strategy and digital transformation for several ventures across e-commerce, content platforms, and education. Built scalable platforms, managed tech budgets, and got my hands dirty with everything from Shopify to custom web applications.
+
+**Adesso SE** - Software Engineer *(Oct 2021 - Mar 2024)*
+Engineered Angular and Spring Boot solutions for corporate time-tracking and parking automation. Built secure internal tools that actually made people's jobs easier.
+
+**Nova Game Studios** - Founder & CEO *(2015 - 2019)*
+Started my own game studio, developed and published "Two Men Dungeon" (local multiplayer game). Did everything—Unity3D development, 3D modeling in Blender, built the website, handled the release. It was a wild ride.
+
+---
+
+## 🏆 Some Cool Stuff
+
+- Won the **Gemini API Developer Competition**
+- Got first place at **Jugend Forscht** in Computer Science
+- My Master's thesis explored adversarial attacks on explainable AI systems
+- Led technical operations for 5+ companies at the same time (yes, it was chaotic)
+
+---
+
+## 📫 Want to Chat?
+
+I'm always down to talk about AI, web development, game dev, or just exchange ideas about tech. Hit me up if you want to collaborate on something interesting or just want to connect.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farazfarid&show_icons=true&theme=light" alt="Faraz's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farazfarid&show_icons=true&locale=en&layout=compact" alt="Faraz's top languages"/>
+  <a href="https://linkedin.com/in/fabianfarid">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:fabianfarid@live.de">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://farazfarid.me">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
-## Connect with Me
+---
 
-<p align="left">
-  <a href="https://linkedin.com/in/fabianfarid"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="fabianfarid" height="30" width="40" /></a>
-  <!-- Add more social icons here -->
+<p align="center">
+  <i>Building things that (hopefully) make a difference</i>
 </p>
