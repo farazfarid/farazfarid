@@ -88,7 +88,7 @@ I'm always down to talk about AI, web development, game dev, or just exchange id
   <a href="mailto:fabianfarid@live.de">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://farazfarid.me">
+  <a href="https://farazfarid.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
