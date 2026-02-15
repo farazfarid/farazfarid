@@ -16,9 +16,9 @@
 
 ## Hey there! 👋
 
-I'm Faraz, a software engineer who's been building things on the web for over a decade. These days, I'm working at **SOPTIM AG** where I develop software for the energy sector—think grid operations and market communication systems that help keep the lights on.
+I'm Faraz, a software engineer who's been building things on the web for over a decade. These days, I'm working at **SOPTIM AG** where I develop software for the energy sector: Think grid operations and market communication systems that help keep the lights on.
 
-I recently finished my Master's in AI at Heinrich Heine University, where I researched how explainable AI behaves when you try to mess with it (spoiler: it gets interesting). Before that, I wore a lot of hats—CTO roles, full-stack development, even ran my own game studio for a few years.
+I recently finished my Master's in AI at Heinrich Heine University, where I researched how explainable AI behaves when you try to mess with it (spoiler: it gets interesting). Before that, I wore a lot of hats: CTO roles, full-stack development, even ran my own game studio for a few years.
 
 **What I'm up to:**
 - Building enterprise software for energy infrastructure at SOPTIM
@@ -64,7 +64,7 @@ Led technical strategy and digital transformation for several ventures across e-
 Engineered Angular and Spring Boot solutions for corporate time-tracking and parking automation. Built secure internal tools that actually made people's jobs easier.
 
 **Nova Game Studios** - Founder & CEO *(2015 - 2019)*
-Started my own game studio, developed and published "Two Men Dungeon" (local multiplayer game). Did everything—Unity3D development, 3D modeling in Blender, built the website, handled the release. It was a wild ride.
+Started my own game studio, developed and published "Two Men Dungeon" (local multiplayer game). Did everything: Unity3D development, 3D modeling in Blender, built the website, handled the release. It was a wild ride.
 
 ---
 
