@@ -2,10 +2,6 @@
 <h3 align="center">Senior Software Engineer | AI Specialist | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://www.farazfarid.com/_next/static/media/profilePic.c5d8a7b9.webp" alt="Faraz" width="200" style="border-radius: 10px;"/>
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/fabianfarid"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/farazfarid"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://farazfarid.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
