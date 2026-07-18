@@ -60,7 +60,7 @@ German and Dari natively, professional English, and I can get by pretty well in 
 **LuminaX** - Founder & CEO *(Present)*
 Building a high-performance AI automation agency. Specializing in intelligent workflow design, business automation, and LLM integrations for SMEs and mid-market companies. Focus on leverage, recurring revenue models, and systems that scale.
 
-**SOPTIM AG** - Software Engineer *(Sept 2024 - October 2026)*Working on cloud-based solutions for energy market stakeholders. Making sure critical infrastructure stays stable and efficient.
+**SOPTIM AG** - Software Engineer *(Sept 2024 - October 2026)* Working on cloud-based solutions for energy market stakeholders. Making sure critical infrastructure stays stable and efficient.
 
 **Multiple CTO Roles** *(2021 - 2024)*
 Led technical strategy and digital transformation for several ventures across e-commerce, content platforms, and energy infrastructure. Built scalable platforms, managed tech budgets, and got hands-on with everything from Shopify to custom enterprise applications.
