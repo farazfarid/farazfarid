@@ -10,6 +10,12 @@
 
 ---
 
+## 📌 About This Profile
+
+This GitHub profile is managed entirely through AI agents and automation systems. All commits, updates, and content management are orchestrated programmatically—I don't manually push or commit code here. This README serves as a portfolio snapshot of my professional background and capabilities.
+
+---
+
 ## Hey there! 👋
 
 I'm Faraz, a software engineer who's been building things on the web for over a decade. These days, I'm working at **SOPTIM AG** where I develop software for the energy sector: Think grid operations and market communication systems that help keep the lights on.
