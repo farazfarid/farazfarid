@@ -1,5 +1,5 @@
 <h1 align="center">Fabian Faraz Farid</h1>
-<h3 align="center">Senior Software Engineer | AI Specialist | Full-Stack Developer</h3>
+<h3 align="center">AI Automation Builder | Founder @ LuminaX Digital | Full-Stack Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/fabianfarid"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -18,18 +18,19 @@ This GitHub profile is managed entirely through AI agents and automation systems
 
 ## Hey there! 👋
 
-I'm Faraz, a software engineer who's been building things on the web for over a decade. These days, I'm working at **SOPTIM AG** where I develop software for the energy sector: Think grid operations and market communication systems that help keep the lights on.
+I'm Faraz, a software engineer and AI automation builder who's been shipping products for over a decade. These days I'm focused on **LuminaX Digital**, where we help companies scale through AI automation, custom integrations, and intelligent systems design.
 
-I recently finished my Master's in AI at Heinrich Heine University, where I researched how explainable AI behaves when you try to mess with it (spoiler: it gets interesting). Before that, I wore a lot of hats: CTO roles, full-stack development, even ran my own game studio for a few years.
+I finished my Master's in AI at Heinrich Heine University, where I researched adversarial attacks on explainable AI (spoiler: robustness is harder than it looks). I've worn a lot of hats: CTO roles, full-stack development, game dev, enterprise software, and now founder-operator building at scale.
 
 **What I'm up to:**
-- Building enterprise software for energy infrastructure at SOPTIM
-- Exploring the world of agentic AI and large language models
-- Always learning something new in the AI space
-- Playing basketball when I'm not behind a keyboard
+- Growing **LuminaX Digital** (AI automation, workflow design, systems integration)
+- Creating content on AI tools, automation architecture, and builder workflows
+- Exploring agentic AI, LLM applications, and AI-driven business optimization
+- Building in public and sharing what we learn along the way
+- Playing basketball when I'm not shipping code
 
 **Things I actually enjoy working with:**
-React and the whole modern frontend ecosystem, Spring Boot for backend stuff, cloud platforms (AWS, Azure, GCP), and lately I've been deep into AI/ML work with various LLMs and frameworks.
+React and the modern frontend ecosystem, backend systems (Spring Boot, Node.js), cloud platforms (AWS, Azure, GCP), and deep work in AI/ML with LLMs, automation frameworks, and intelligent workflows.
 
 **Languages I speak:**
 German and Dari natively, professional English, and I can get by pretty well in Spanish and Arabic. Currently butchering French as a beginner.
@@ -46,7 +47,7 @@ German and Dari natively, professional English, and I can get by pretty well in 
 
 **Cloud & Infrastructure:** AWS, Azure, GCP, Docker, Kubernetes
 
-**AI/ML:** TensorFlow, PyTorch, OpenAI APIs, scikit-learn
+**AI/ML:** LLMs, TensorFlow, PyTorch, OpenAI APIs, LangChain, n8n, automation frameworks
 
 **Databases:** MongoDB, PostgreSQL, MySQL, Firebase
 
@@ -56,11 +57,13 @@ German and Dari natively, professional English, and I can get by pretty well in 
 
 ## 🎯 Experience Highlights
 
-**SOPTIM AG** - Software Engineer *(Sept 2024 - Present)*
-Working on cloud-based solutions for energy market stakeholders. Making sure critical infrastructure stays stable and efficient.
+**LuminaX** - Founder & CEO *(Present)*
+Building a high-performance AI automation agency. Specializing in intelligent workflow design, business automation, and LLM integrations for SMEs and mid-market companies. Focus on leverage, recurring revenue models, and systems that scale.
+
+**SOPTIM AG** - Software Engineer *(Sept 2024 - October 2026)*Working on cloud-based solutions for energy market stakeholders. Making sure critical infrastructure stays stable and efficient.
 
 **Multiple CTO Roles** *(2021 - 2024)*
-Led technical strategy and digital transformation for several ventures across e-commerce, content platforms, and education. Built scalable platforms, managed tech budgets, and got my hands dirty with everything from Shopify to custom web applications.
+Led technical strategy and digital transformation for several ventures across e-commerce, content platforms, and energy infrastructure. Built scalable platforms, managed tech budgets, and got hands-on with everything from Shopify to custom enterprise applications.
 
 **Adesso SE** - Software Engineer *(Oct 2021 - Mar 2024)*
 Engineered Angular and Spring Boot solutions for corporate time-tracking and parking automation. Built secure internal tools that actually made people's jobs easier.
@@ -74,14 +77,15 @@ Started my own game studio, developed and published "Two Men Dungeon" (local mul
 
 - Won the **Gemini API Developer Competition**
 - Got first place at **Jugend Forscht** in Computer Science
-- My Master's thesis explored adversarial attacks on explainable AI systems
-- Led technical operations for 5+ companies at the same time (yes, it was chaotic)
+- Master's thesis on adversarial attacks against explainable AI systems
+- Led technical operations for 5+ companies simultaneously
+- Building LuminaX Digital into a serious AI automation agency
 
 ---
 
 ## 📫 Want to Chat?
 
-I'm always down to talk about AI, web development, game dev, or just exchange ideas about tech. Hit me up if you want to collaborate on something interesting or just want to connect.
+I'm always down to talk about AI automation, business scaling, agentic systems, or tech in general. Hit me up if you want to collaborate, discuss automation architecture, or just connect.
 
 <p align="center">
   <a href="https://linkedin.com/in/fabianfarid">
@@ -98,5 +102,5 @@ I'm always down to talk about AI, web development, game dev, or just exchange id
 ---
 
 <p align="center">
-  <i>Building things that (hopefully) make a difference</i>
+  <i>Building AI systems that create real business value</i>
 </p>
