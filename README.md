@@ -12,7 +12,7 @@
 
 ## 📌 About This Profile
 
-This GitHub profile is managed entirely through AI agents and automation systems. All commits, updates, and content management are orchestrated programmatically—I don't manually push or commit code here. This README serves as a portfolio snapshot of my professional background and capabilities.
+This GitHub profile is **managed entirely through AI agents and automation systems**. All commits, updates, and content management are orchestrated programmatically—**I don't manually push or commit code here**. This README serves as a portfolio snapshot of my professional background and capabilities.
 
 ---
 
