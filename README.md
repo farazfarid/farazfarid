@@ -1,5 +1,5 @@
 <h1 align="center">Fabian Faraz Farid</h1>
-<h3 align="center">AI Solutions Engineer · Software Engineer · AWS Cloud Security · Mönchengladbach</h3>
+<h3 align="center">AI Solutions Engineer · Founder of LuminaX Digital · Software Engineer · Mönchengladbach</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/fabianfarid"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -19,12 +19,12 @@ This GitHub profile is **managed entirely through AI agents and automation syste
 
 ## Hey there! 👋
 
-I'm Fabian Faraz Farid, an AI solutions engineer and software engineer from Mönchengladbach, Germany, and I've been shipping products for over a decade. These days I help companies put AI to work: automation, custom integrations and intelligent systems design.
+I'm Fabian Faraz Farid, an AI solutions engineer and the founder of **[LuminaX Digital](https://www.luminaxdigital.com)** in Mönchengladbach, Germany, and I've been shipping products for over a decade. These days I help companies put AI to work: automation, custom integrations and intelligent systems design.
 
 I finished my Master's in AI at Heinrich Heine University, where I researched adversarial attacks on explainable AI (spoiler: robustness is harder than it looks). I've worn a lot of hats: CTO roles, full-stack development, game dev, enterprise software, cloud security, and now AI solutions engineering.
 
 **What I'm up to:**
-- Designing AI solutions: automation, workflow design, systems integration
+- Building **LuminaX Digital**: software, automation and AI for mid-sized companies
 - Creating content on AI tools, automation architecture, and builder workflows
 - Exploring agentic AI, LLM applications, and AI-driven business optimization
 - Building in public and sharing what we learn along the way
@@ -58,8 +58,8 @@ German and Dari natively, professional English, and I can get by pretty well in 
 
 ## 🎯 Experience Highlights
 
-**AI Solutions Engineer** *(Present)*
-Designing and building AI solutions: LLM integrations, agentic workflows and automation that removes real work.
+**LuminaX Digital** - Founder & AI Solutions Engineer *(Present)*
+Software, automation and AI for mid-sized companies: online configurators for made-to-measure manufacturers, LLM integrations, agentic workflows and locally hosted AI.
 
 **SOPTIM AG** - Software Engineer & AWS Cloud Security Officer *(Sept 2024 - Oct 2026)*
 Built cloud-based energy management software used across the German power grid and owned the AWS security posture as Cloud Security Officer.
